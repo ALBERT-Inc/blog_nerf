@@ -4,3 +4,8 @@
 ## 実行方法
 - `requirements.txt` に書かれているライブラリをインストールしてください．バージョンは厳密に合わせなくてもだいたい動きます．
 - あとはノートブックを上から順に実行していくだけ．
+
+## 元論文
+NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+- arXiv: https://arxiv.org/abs/2003.08934
+- プロジェクトページ: http://www.matthewtancik.com/nerfhttp://www.matthewtancik.com/nerf
